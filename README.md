@@ -1,4 +1,4 @@
-# My-Sl-project
+
 # AI Brand Lab – Second Life
 
 ## 🚀 Project Overview
@@ -21,6 +21,6 @@ Currently testing workflows on Colab and RunPod. Seeking GPU credits via Modal t
 
 ---
 
-**Website:** [ckiiix.github.io/ai-brand-lab](https://ckiiix.github.io/ai-brand-lab)  
-**Contact:** `ckiiix@ckiiix.github.io` *(forwarding placeholder)*  
-**Workspace:** `ckiiixslproject` on Modal
+**🌐 Website:** [ckiiix.github.io/My-SI-project](https://ckiiix.github.io/My-SI-project)  
+**📧 Contact:** `ckiiix@ckiiix.github.io` *(placeholder email)*  
+**🧪 Modal Workspace:** `ckiiixslproject`
